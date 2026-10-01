@@ -30,7 +30,7 @@ const Container = styled.div`
   margin: auto;
   border-radius: 4px;
   box-shadow: 0 3px 6px 0 #555;
-  background: #dbe0e2;;
+  background: #dbe0e2;
   font-family: Montserrat;
 `;
 
@@ -39,13 +39,6 @@ const AppLabel = styled.span`
   margin: 20px auto;
   font-size: 18px;
   font-weight: bold;
-`;
-const CloseButton = styled.span`
-  padding: 2px 3px;
-  background-color: black;
-  border-radius: 50%;
-  color: white;
-  position: absolute;
 `;
 
 function App() {
